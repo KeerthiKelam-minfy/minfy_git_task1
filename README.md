@@ -1,1 +1,14 @@
 # minfy git task1
+
+![image](https://github.com/user-attachments/assets/06b8229d-96f7-4d31-95c6-71e3b5f26d1e)
+
+![image](https://github.com/user-attachments/assets/a4461b2e-89d2-477c-b822-66ca2cf6ce05)
+
+
+In the first commit, I added the initial 2 steps of git and github assignment task 1
+
+In the second commit --> "add step 3", I added the step 3 of this task.
+
+In the third commit --> "add step 4", I added the step 4 of this task.
+
+in the fourth commit --> "add step 5 & 6", I added the step 5 and 6 of this task.
