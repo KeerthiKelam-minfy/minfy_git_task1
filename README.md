@@ -1,0 +1,1 @@
+# minfy git task1

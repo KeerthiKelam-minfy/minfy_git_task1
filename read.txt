@@ -1,0 +1,5 @@
+This is a file.
+This is a text file.
+This is an assignment on git basic workflow,
+where the first step is to initialize a local Git repository
+and create a text file with 5-10 lines of content.
