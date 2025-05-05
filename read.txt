@@ -3,3 +3,6 @@ This is a text file.
 This is an assignment on git basic workflow,
 where the first step is to initialize a local Git repository
 and create a text file with 5-10 lines of content.
+
+The next steps are:
+3.	Add the file to staging and make an initial commit
