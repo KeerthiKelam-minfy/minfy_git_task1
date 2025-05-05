@@ -19,3 +19,7 @@ in the fourth commit --> "add step 5 & 6", I added the step 5 and 6 of this task
 
 
 Making changes for assignment 3.
+
+
+Made a successful pull request and merge.
+![image](https://github.com/user-attachments/assets/9535ac67-0488-475b-b19b-dfbf28b07e42)
