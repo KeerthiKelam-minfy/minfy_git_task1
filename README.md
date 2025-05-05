@@ -18,7 +18,7 @@ In the third commit --> "add step 4", I added the step 4 of this task.
 in the fourth commit --> "add step 5 & 6", I added the step 5 and 6 of this task.
 
 
-Making changes for assignment 3.
+Making changes for assignment 2.
 
 
 Made a successful pull request and merge.
