@@ -4,6 +4,8 @@ COMMIT HISTORY
 
 ![image](https://github.com/user-attachments/assets/06b8229d-96f7-4d31-95c6-71e3b5f26d1e)
 
+GIT LOG
+
 ![image](https://github.com/user-attachments/assets/a4461b2e-89d2-477c-b822-66ca2cf6ce05)
 
 
